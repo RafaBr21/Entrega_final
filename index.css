@@ -7,7 +7,7 @@ body {
 section {
     height: 100vh;
 }
-
+/* pagina Home */
 .secao1 h1 {
     position: absolute;
     width: 522px;
@@ -205,6 +205,8 @@ article {
     top: 578px;
 }
 
+/* essa e a segunda pagina*/
+
 .logical-thinking {
     position: relative;
     width: 1400px;
@@ -252,6 +254,7 @@ article {
     top: 68px;
 }
 
+/* terceira pagina*/
 .preparing-your-kids {
     position: absolute;
     width: 1400px;
@@ -300,6 +303,7 @@ article {
     top: 50px;
 }
 
+/* quarta pagina */
 .testimony {
     position: absolute;
     width: 1400px;
@@ -363,6 +367,7 @@ article {
     top: 0px;
 }
 
+/* quinta pagina */
 .tabela {
     position: relative;
     width: 1400px;
@@ -604,7 +609,7 @@ h3 {
     color: #FF463A;
 }
 
-
+/* sexta pagina */
 .formulario {
     position: absolute;
     width: 1400px;
@@ -697,6 +702,7 @@ h3 {
     color: #FFFFFF;
 }
 
+/* footer que seria o rodape */
 .rodape {
     position: relative;
     width: 1397px;
