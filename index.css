@@ -582,13 +582,37 @@ h3 {
     top: 540px;
 }
 
+.new {
+    position: absolute;
+    width: 47px;
+    height: 25px;
+    left: 298px;
+    top: 530px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 4px 8px;
+    background: #FFE6E5;
+    border-radius: 5px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FF463A;
+}
+
+
 .formulario {
     position: absolute;
     width: 1400px;
     height: 1104px;
     left: 0px;
-    top: 0px;
+    top: 3600px;
 }
+
 
 .amarelo1 {
     position: absolute;
@@ -618,25 +642,49 @@ h3 {
     width: 39.54px;
     height: 59px;
     left: 927px;
-    top: 88px;
+    top: 115px;
 }
 
-form {
-    width: 700px;
+.fone {
+    position: absolute;
+    width: 139px;
+    height: 97px;
+    left: 1135px;
+    top: 277px;
 }
 
-.text {
+.nomes {
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-direction: column;
+    position: absolute;
+    gap: 15px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
+    left: 350px;
+    top: 250px;
+    color: #00235C;
 }
 
-.button4 {
+.ret {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    position: absolute;
+    width: 394px;
+    height: 52px;
+    left: 562px;
+    top: 250px;
+}
+
+.register {
     position: absolute;
     width: 200px;
     height: 52px;
     left: 756px;
-    top: 537px;
+    top: 562px;
     background: #116CFF;
     border-radius: 10px;
     border: none;
@@ -653,7 +701,7 @@ form {
     position: relative;
     width: 1397px;
     height: 363px;
-    top: 1500px;
+    top: 1223px;
     background: #00235C;
 }
 
