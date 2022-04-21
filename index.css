@@ -304,7 +304,7 @@ article {
     position: absolute;
     width: 1400px;
     height: 718px;
-    top: 2150px;
+    top: 2120px;
     background: #FFFFFF;
 }
 
@@ -363,10 +363,224 @@ article {
     top: 0px;
 }
 
-/* .tabela {
-    position: absolute;
+.tabela {
+    position: relative;
+    width: 1400px;
+    height: 728px;
+    top: 780px;
     background: #116CFF;
-} */
+}
+
+.tabela h1 {
+    position: absolute;
+    width: 172px;
+    height: 50px;
+    left: 100px;
+    top: 75px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+    color: #FFFFFF;
+}
+
+.tabela h2 {
+    position: absolute;
+    width: 288px;
+    height: 30px;
+    left: 24px;
+    top: -140px;
+}
+
+.superior {
+    position: absolute;
+    width: 1166px;
+    height: 150px;
+    left: 100px;
+    top: 195px;
+    background: rgba(255, 255, 255, 0.8);
+    border-radius: 10px 10px 0px 0px;
+}
+
+.table {
+    position: absolute;
+    width: 1166px;
+    height: 320px;
+    left: 0px;
+    top: 150px;
+    background: #FFFFFF;
+}
+
+h2 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #00235C;
+}
+
+.estrelasd {
+    position: relative;
+    width: 18px;
+    height: 20px;
+    left: 21px;
+    top: -62px;
+}
+
+.etiqueta {
+    position: absolute;
+    left: 540px;
+    top: 25px;
+}
+
+.timer {
+    position: absolute;
+    left: 740px;
+    top: 25px;
+}
+
+.pessoas {
+    position: absolute;
+    left: 540px;
+    top: 85px;
+}
+
+.not {
+    position: absolute;
+    left: 740px;
+    top: 88px;
+}
+
+.month {
+    position: absolute;
+    left: 570px;
+    top: 10px;
+    font-family: 'Inter';
+    font-size: 16px;
+    color: #00235C;
+}
+
+.meet {
+    position: absolute;
+    left: 775px;
+    top: 12px;
+    font-family: 'Inter';
+    font-size: 16px;
+    color: #00235C;
+}
+
+.kids {
+    position: absolute;
+    left: 575px;
+    top: 70px;
+    font-family: 'Inter';
+    font-size: 16px;
+    color: #00235C;
+}
+
+.online {
+    position: absolute;
+    left: 775px;
+    top: 70px;
+    font-family: 'Inter';
+    font-size: 16px;
+    color: #00235C;
+}
+
+.button5 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    width: 135px;
+    height: 50px;
+    left: 1015px;
+    top: 54px;
+    border-radius: 10px;
+    background-color: #116CFF;
+    border: none;
+    color: #FFFFFF;
+}
+
+h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #116CFF;
+}
+
+.estrelaa {
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 720px;
+    top: 378px;
+}
+
+.primeira {
+    position: relative;
+    width: 327px;
+    height: 65px;
+    left: 124px;
+    top: 370px;
+}
+
+.estrelab {
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 720px;
+    top: 460px;
+}
+
+.valor {
+    position: absolute;
+    font-weight: 700;
+    font-size: 20px;
+    width: 67px;
+    height: 30px;
+    left: 1150px;
+    top: 350px;
+    color: #00235C;
+}
+
+.valor1 {
+    position: absolute;
+    font-weight: 700;
+    font-size: 20px;
+    height: 30px;
+    left: 1150px;
+    top: 430px;
+    color: #00235C;
+}
+
+.valor2 {
+    position: absolute;
+    width: 50px;
+    height: 30px;
+    left: 1150px;
+    top: 500px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FF463A;
+}
+
+.estrelac {
+    position: absolute;
+    width: 120px;
+    height: 20px;
+    left: 720px;
+    top: 540px;
+}
 
 .formulario {
     position: absolute;
